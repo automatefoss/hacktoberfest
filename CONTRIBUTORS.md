@@ -760,3 +760,8 @@ s in Computer Science
 - Place: Seattle, WA, USA, Earth!
 - Bio: Trying to learn cool new things!
 - GitHub: [Justin Oliver](https://github.com/justinoliver)
+
+#### Name: [Aaditya Menon](https://blog.sparker0i.me)
+- Place: Palakkad, Kerala, India, Asia, Earth!
+- Bio: Android and Windows 10 UWP App Developer!
+- GitHub: [Justin Oliver](https://github.com/Sparker0i)
